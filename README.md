@@ -4,6 +4,8 @@ InClassAssignment 1
 
 Source & Documentation: https://github.com/vmanvitha3/PythonAndDeepLearning/tree/master/InClass/Week1
 
+
+
 InClassAssignment 2 
 
 Source & Documentation: https://github.com/vmanvitha3/PythonAndDeepLearning/tree/master/InClass2

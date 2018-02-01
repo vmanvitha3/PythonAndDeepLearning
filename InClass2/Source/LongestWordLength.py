@@ -17,5 +17,6 @@ sorted_list = sorted(word_freq)     #Sorted the list based on number of letters
 
 print("Sorted list is ",sorted_list)
 
+
 #Returns the last tuple
 print("Last tuple in the list is ",sorted_list[-1:])

@@ -1,0 +1,3 @@
+Saria,5
+Deep learning,13
+Python,6

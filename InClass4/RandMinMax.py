@@ -1,7 +1,7 @@
 import numpy as np
 
-#matrix = np.random.randint(10,size=(10,10)) #Generate random numbers between 0 and 9
-matrix = np.random.random((10,10)) #Generate any random numbers
+matrix = np.random.randint(10,size=(10,10)) #Generate random numbers between 0 and 9
+#matrix = np.random.random((10,10)) #Generate any random numbers
 
 print(matrix)
 
